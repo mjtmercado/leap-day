@@ -20,17 +20,17 @@ with no idea about the real world, would think about how to start making *landi*
 
 When I paid attention to LOL, I became familiar with the Friendster background layout, music, and the design of my cursor.
 All these were based on **how I want others to see me.** The questions in my mind during those times were:
-•	Does this background look cute?
-•	If I use this cursor, would others see me as attractive?
-•	How does this  background music add more “chicness” to my profile?
+- Does this background look cute?
+- If I use this cursor, would others see me as attractive?
+- How does this  background music add more “chicness” to my profile?
 
  I also learned how to choose what pictures I should upload and status I should post.
-•	If I choose to upload this picture wherein I am showing my teeth, would my classmates think I am pretty?
+- If I choose to upload this picture wherein I am showing my teeth, would my classmates think I am pretty?
 
 ![](attachments/226045_217078714985698_2743695_n.jpg)
 ![](attachments/230592_217079028319000_7390731_n.jpg)
 
-•	What if I upload my gradeschool pictures?
+- What if I upload my gradeschool pictures?
 
 ![](attachments/221974_217078771652359_1311098_n.jpg)
 
@@ -49,9 +49,9 @@ As you can see, these are all about the appearance I want to communicate with ot
 In Friendster, there was an option in which you can see those people who viewed your profile. *Interesting, right? I wish Facebook has that.*
 
 However, since I was now introduced to LOL, I became so addicted to checking if this person checked my profile.
-•	He did not view my page today.
-•	Does it mean he does not like me?
-•	Is he attracted to somebody else?
+- He did not view my page today.
+- Does it mean he does not like me?
+- Is he attracted to somebody else?
 
 Whenever this would happen, I would immediately change my background music into something melancholic.
 
