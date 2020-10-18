@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: The Journey of My Selves
 author: Marynel Mercado
 ---
@@ -24,7 +24,7 @@ All these were based on **how I want others to see me.** The questions in my min
 •	If I use this cursor, would others see me as attractive?
 •	How does this  background music add more “chicness” to my profile?
 
- I also learned how to choose what pictures I should upload and status I should post. 
+ I also learned how to choose what pictures I should upload and status I should post.
 •	If I choose to upload this picture wherein I am showing my teeth, would my classmates think I am pretty?
 
 ![](attachments/226045_217078714985698_2743695_n.jpg)
@@ -88,7 +88,7 @@ You see, as a teenager, it really mattered. Until now, even though I can already
 # What Now?
 ## *Memory*
 What can a 24-year old do differently?
-I say, engage in more intrapersonal communication. With this, I will see myself through my own eyes and not through the likes, shares, and comments people will give me. Although Friendster is not available anymore, numerous social media platforms, which have somehow similar features, are now becoming part of our daily lives. As a 24-year-old lady who is now more able to reflect and analyze, I believe that I should become more conscious about these things. Allowing myself to engage in inner talk will boost my self-esteem. This confidence will be apparent in the things I post on my accounts. 
+I say, engage in more intrapersonal communication. With this, I will see myself through my own eyes and not through the likes, shares, and comments people will give me. Although Friendster is not available anymore, numerous social media platforms, which have somehow similar features, are now becoming part of our daily lives. As a 24-year-old lady who is now more able to reflect and analyze, I believe that I should become more conscious about these things. Allowing myself to engage in inner talk will boost my self-esteem. This confidence will be apparent in the things I post on my accounts.
 
 I was able to retrieve my pictures from Friendster, and here is my promise for my selves.
 The way I will present them will not be anchored in the network I am in, nor in the number of likes and comments I will get. Rather, this presentation is a reflection of who I really am-
