@@ -1,15 +1,15 @@
 ---
 layout: default
+title: When It All Started
 ---
 
-# When It All Started
-I think it was around 2008 when I was first introduced to Friendster. That time, I was only 12 years old, and my older sister was the one who created my email and helped me out setting up my account. 
+I think it was around 2008 when I was first introduced to Friendster. That time, I was only 12 years old, and my older sister was the one who created my email and helped me out setting up my account.
 ![](223460_217078918319011_4031894_n.jpg)
-She told me to do this and that to ensure that my profile looks “chic.” Of course, as a twelve-year-old kid, I did not have much of an idea of how I should present myself. 
+She told me to do this and that to ensure that my profile looks “chic.” Of course, as a twelve-year-old kid, I did not have much of an idea of how I should present myself.
 
-This blog is about the journey of my selves. 
+This blog is about the journey of my selves.
 
-I thought it is impossible to have many versions of yourself. 
+I thought it is impossible to have many versions of yourself.
 
 
 Not until now.
