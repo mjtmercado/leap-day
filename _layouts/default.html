@@ -17,11 +17,13 @@
   <body>
     <div class="wrapper">
       <nav>
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <h1><a href="{{ "/" | absolute_url }}">divadibella96</a></h1>
+        <img src="{{site.logo | relative_url}}" alt="Logo" />
+        <p>{{ site.description | default: site.github.project_tagline }}</p>
         <ul></ul>
       </nav>
       <section>
+        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         {{ content }}
 
       </section>
