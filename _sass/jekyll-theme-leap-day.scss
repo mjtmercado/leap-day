@@ -9,15 +9,15 @@ by Matt Graham
 
 body {
   font:14px/22px 'Quattrocento Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color:#2b2b2b;
+  color:#ebdbb2;
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.png) #eae6d1;
+  background: url(../images/body-background.png) #1d2021;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#333;
+  color:#CD5C5C;
   margin:0 0 10px;
 }
 
@@ -35,11 +35,11 @@ h1 {
 
 h2 {
   font-size: 24px;
-  color:#393939;
+  color:#FFC0CB;
 }
 
 h3, h4, h5, h6 {
-  color:#666666;
+  color:#F08080;
 }
 
 h3 {
@@ -48,14 +48,14 @@ h3 {
 }
 
 a {
-  color:#4276b6;
+  color:#CD5C5C;
   font-weight:400;
   text-decoration:none;
 }
 
 a small {
   font-size:11px;
-  color:#666;
+  color:#DC143C;
   margin-top:-0.6em;
   display:block;
 }
