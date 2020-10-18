@@ -13,7 +13,7 @@ body {
   font-weight:300;
   margin: 0px;
   padding:0px 0 20px 0px;
-  background: url(../images/body-background.jpg) #1d2021;
+  background: #1d2021;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -274,7 +274,7 @@ section {
   width:590px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 190px;
+  margin-top: 50px;
   position:relative;
   background: #080705;
 }
@@ -309,7 +309,7 @@ nav {
 
         a {
           font-weight: bold;
-          color: #B22222;
+          color: #CD5C5C;
         }
 
         + .tag-h2 {
@@ -326,9 +326,9 @@ nav {
     }
 
     a {
-      color: #E9967A;
+      color: #F08080;
 
-      &:hover { color: #DC143C; }
+      &:hover { color: #A52A2A; }
     }
 
     // .active {
