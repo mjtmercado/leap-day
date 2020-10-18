@@ -285,21 +285,11 @@ small {
 
 nav {
   width: 230px;
-  position: fixed;
+  position: relative;
   top: 5px;
   left:50%;
   margin-left:-580px;
   text-align: right;
-
-  #logo {
-    position:absolute;
-    height: 250px;
-    width: 205px;
-    right:7px;
-    top:7px;
-    display: block;
-    background: url(../images/logo.jpg);
-  }
 
   ul {
     list-style: none;
