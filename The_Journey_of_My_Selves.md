@@ -79,7 +79,7 @@ Well, let’s give credit to this platform for allowing me to learn how to engag
 
 **False representation.**
 As a communicator, it is essential that you engage in intrapersonal communication. Asking yourself questions about your identity matters because how you see yourself affects the way you present yourself. At a very young age, I did not know this. Instead of inside to outside communication, it was the other way around.
-The way others saw me and communicated with me influenced the way I talked to myself. This is why I think that, despite communication opportunities given by this platform, I still believe that the way I was introduced to it and how I manipulated it led to a false representation of myself.
+The way others saw me and communicated with me influenced the way I talked to myself. This is why I think that, despite the communication opportunities given by this platform, I still believe that the way I was introduced to it and how I manipulated it led to a false representation of myself.
 
 ### Who cares?
 What if I represented myself different from who I really was?
@@ -93,7 +93,7 @@ I say, engage in more intrapersonal communication. With this, I will see myself 
 I was able to retrieve my pictures from Friendster, and here is my promise for my selves.
 The way I will present them will not be anchored in the network I am in, nor in the number of likes and comments I will get. Rather, this presentation is a reflection of who I really am-
 
-## an achiever/ a grade conscious student
+## a grade conscious student
 ![](attachments/229425_217078698319033_348384_n.jpg)
 ![](attachments/12112504_1315610311799194_7956289114758926979_n.jpg)
 
@@ -119,6 +119,4 @@ The way I will present them will not be anchored in the network I am in, nor in 
 
 ## a teacher
 ![](attachments/106085067_3701118966581638_7297679720150850889_o.jpg)
-
-and many more selves.
 
