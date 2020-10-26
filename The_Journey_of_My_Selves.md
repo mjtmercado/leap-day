@@ -93,7 +93,7 @@ I say, engage in more intrapersonal communication. With this, I will see myself 
 I was able to retrieve my pictures from Friendster, and here is my promise for my selves.
 The way I will present them will not be anchored in the network I am in, nor in the number of likes and comments I will get. Rather, this presentation is a reflection of who I really am-
 
-## an achiever/ a grade cosncious student
+## an achiever/ a grade conscious student
 ![](attachments/229425_217078698319033_348384_n.jpg)
 ![](attachments/12112504_1315610311799194_7956289114758926979_n.jpg)
 
