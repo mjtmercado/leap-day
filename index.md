@@ -14,4 +14,5 @@ I thought it is impossible to have many versions of yourself.
 Not until now.
 
 ### My posts
-[The Journey of My Selves](./The_Journey_of_My_Selves.md)
+[The Journey of My Selves](./The_Journey_of_My_Selves.md)\
+[The Rhetorical Situation in Friendster](./The_Rhetorical_Situation_in_Friendster.md)
