@@ -67,7 +67,9 @@ Here is a picture of me during those times. Just a reminder of how I looked like
 
 ![](attachments/21858_105602872799950_2676526_n.jpg)
 
-This option also taught me the idea of “think before you click.” It was not Facebook who introduced this line, well, at least for me. Since Friendster has this option, I learned how to be careful when stalking other people. Of course, why would I, a *Landi-on-the-inside-but-shy-on-the-outside girl*, let people know that I am stalking them?
+This option also taught me the idea of “think before you click.” It was not Facebook who introduced this line, well, at least for me. Since Friendster has this option, I learned how to be careful when stalking other people. Of course, why would I, a *Landi-on-the-inside-but-shy-on-the-outside girl*, 
+
 ![](attachments/21858_105602886133282_2321213_n.jpg)
 
+let people know that I am stalking them?
 
