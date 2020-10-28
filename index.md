@@ -16,4 +16,4 @@ Not until now.
 ### My posts
 [The Beginning](./The_Beginning.md)\
 [The Rhetorical Situation in Friendster](./The_Rhetorical_Situation_in_Friendster.md)\
-[The Future of My Selves](./The_Future_of_My_Selves.md)\
+[The Future of My Selves](./The_Future_of_My_Selves.md)
