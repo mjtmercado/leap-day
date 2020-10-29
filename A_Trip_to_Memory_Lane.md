@@ -16,7 +16,7 @@ with no idea about the real world, would think about how to start making *landi*
 ## How to LOL
 ### *Style*
 
-Choose your weapons wisely.
+**Choose your weapons wisely.**
 
 When I paid attention to LOL, I became familiar with the Friendster background layout, music, and the design of my cursor.
 All these were based on **how I want others to see me.** The questions in my mind during those times were:
@@ -35,7 +35,7 @@ All these were based on **how I want others to see me.** The questions in my min
 ![](attachments/221974_217078771652359_1311098_n.jpg)
 
 
-Call for backup.
+**Call for backup.**
 
 Aside from the design layout and the things I upload about myself, I was also concerned with how others see me in terms of  “**testimonials**.”
 Testi or testimonials also mattered before. People can write comments about you, and during that time, I would usually ask my sister or my cousins, and close friends to write testi for me. However, there was a strict reminder: “*Ayusin niyo ha*.” I would ask them to write good stuff about me so that if anyone visited my page, they would see that I am an interesting person.
@@ -43,7 +43,7 @@ Testi or testimonials also mattered before. People can write comments about you,
 As you can see, these are all about the appearance I want to communicate with others. I was so obsessed with how my “*friends*” would see me as a freshman student. I needed to "belong" in this new school, and I wanted to be noticed by my schoolmates.
 
 ### *Arrangement*
-Use your secret weapon.
+**Use your secret weapon.**
 
 
 In Friendster, there was an option in which you can see those people who viewed your profile. *Interesting, right? I wish Facebook has that.*
@@ -73,4 +73,4 @@ This option also taught me the idea of “think before you click.” It was not 
 
 let people know that I am stalking them?
 
-This is where it all started.
+**This is where it all started.**
