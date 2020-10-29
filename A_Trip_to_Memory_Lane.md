@@ -73,4 +73,8 @@ This option also taught me the idea of “think before you click.” It was not 
 
 let people know that I am stalking them?
 
+### *Delivery*
+You see, within a couple of months in Friendster, I was able to learn how to deliver, where to deliver, and when to deliver my message. I understood and used the systems of distribution to persuade others, even myself.
+
+
 **This is where it all started.**
