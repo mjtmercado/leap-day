@@ -46,3 +46,4 @@ The way I will present them will not be anchored in the network I am in, nor in 
 
 ## a teacher
 ![](attachments/106085067_3701118966581638_7297679720150850889_o.jpg)
+
