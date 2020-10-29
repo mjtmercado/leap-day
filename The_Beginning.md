@@ -5,8 +5,8 @@ author: Marynel Mercado
 ---
 # Friendster as *the* Means
 ## *Invention*
-After a year of being in Friendster, I started to learn how to manipulate this technology. I can still vividly remember my first year in high school. Friendster played a vital role in my life at that time, not because it allowed me to learn stuff for school, but because it was one of the most famous means to learn things I would like to call
-### LOL.
+After a year of being in Friendster, I started to learn how to manipulate this technology. I can still vividly remember my first year in high school. Friendster played a vital role in my life at that time, not because it allowed me to learn stuff for school, but because it was one of the most famous means to learn things I would like to call *LOL*.
+
 This does not stand for laugh-out-loud antics. LOL pertains to *Landi OnLine*. I know, thinking about it now, I believe that this acronym suits the context so well because, as a 24-year old, I now realize how hilarious these years are. Imagine, a flat-chested kid,
 
 ![](attachments/228477_217078568319046_374596_n.jpg)
