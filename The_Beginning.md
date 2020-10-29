@@ -1,10 +1,10 @@
 ---
 layout: default
-title: The Beginning
+title: A Trip to Memory Lane
 author: Marynel Mercado
 ---
-# Friendster as *the* Means
-## *Invention*
+## Friendster as *the* Means
+### *Invention*
 After a year of being in Friendster, I started to learn how to manipulate this technology. I can still vividly remember my first year in high school. Friendster played a vital role in my life at that time, not because it allowed me to learn stuff for school, but because it was one of the most famous means to learn things I would like to call *LOL*.
 
 This does not stand for laugh-out-loud antics. LOL pertains to *Landi OnLine*. I know, thinking about it now, I believe that this acronym suits the context so well because, as a 24-year old, I now realize how hilarious these years are. Imagine, a flat-chested kid,
@@ -13,8 +13,8 @@ This does not stand for laugh-out-loud antics. LOL pertains to *Landi OnLine*. I
 
 with no idea about the real world, would think about how to start making *landi* with others. Don’t get me wrong. All my friends in Friendster are mostly from my school, so I guess it was safe enough to upload pictures and information about me. Besides, issues about privacy were not that prevalent before.
 
-# How to LOL
-## *Style*
+## How to LOL
+### *Style*
 
 Choose your weapons wisely.
 
@@ -42,7 +42,7 @@ Testi or testimonials also mattered before. People can write comments about you,
 
 As you can see, these are all about the appearance I want to communicate with others. I was so obsessed with how my “*friends*” would see me as a freshman student. I needed to "belong" in this new school, and I wanted to be noticed by my schoolmates.
 
-## *Arrangement*
+### *Arrangement*
 Use your secret weapon.
 
 
