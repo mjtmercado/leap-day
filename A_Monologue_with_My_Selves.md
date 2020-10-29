@@ -10,7 +10,7 @@ Well, let’s give credit to this platform for allowing me to learn how to engag
 ### *Delivery*
 As a communicator, it is essential that you engage in intrapersonal communication. Asking yourself questions about your identity matters because how you see yourself affects the way you present yourself. At a very young age, I did not know this. 
 
-**I just focused on how to deliver, where to deliver, and when to deiver my message to persuade others and myself.**
+**I just focused on how to deliver, where to deliver, and when to deliver my message to persuade others and myself.**
 
 I did not recognize the conflict it created within me.
 Instead of inside to outside communication, it was the other way around.
