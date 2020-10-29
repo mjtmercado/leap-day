@@ -16,10 +16,10 @@ Instead of inside to outside communication, it was the other way around.
 
 The way others saw me and communicated with me influenced the way I talked to myself. This is why I think that, despite the communication opportunities given by this platform, I still believe that the way I was introduced to it and how I manipulated it led to a false representation of myself.
 
-## What Now?
+**What now?**
 
 What if I represented myself different from who I really was?
 You see, as a teenager, it really mattered. Until now, even though I can already decide for myself, and I do not depend on my sister anymore to set up my account, social media platforms are still significant contributors to how I perceive and present myself. This false representation did not end in Friendster. It happens on my Instagram and Facebook accounts.
 
 ### *Memory*
-I was able to retrieve my photos from Friednster, and I like to show you **a promise of myself to my selves.**
+I was able to retrieve my photos from Friendster, and I like to show you **a promise of myself to my selves.**
