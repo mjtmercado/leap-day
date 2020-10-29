@@ -1,20 +1,25 @@
-# The Rhetorical Situation and the Exigence
+---
+layout: default
+title: The Rhetorical Situation
+author: Marynel Mercado
+---
+# The Exigence
 
 I came from a low-income family, and I studied in a public school in grade school. My mother decided to enroll me in one of the most famous private schools in our city because that is where she works. The payment was just deducted from her monthly salary. Since I am not a rich kid, I had to identify myself as one. My classmates’ cellphones were the most recently released models. Their bags were branded. Their notebooks were expensive. Their parents were either doctors, engineers, or businessmen.
 
-*I had to be like them.*
+*I have to be like them.*
+*I have to look cool."
+*I have to belong.*
 This was the exigence.
+
+# The Process of Identifcation
 
 Burke noted that in understanding identification, we must remember that we are actors who use language to create symbolic actions. We use language that has the purpose of conveying our attitudes. In the associating process of identification, we persuade others, or even ourselves, that we have commonalities that can be used to achieve cohesion.
 
+Since Friendster was the most used digital platform during my high school years, it impacted me a lot as a communicator. I had to post content that will address the exigence I was experiencing that time. I had to make sure that my pictures and other posts would persuade others that I "belong" to the school. 
 
-Since Friendster was the most used digital platform during my high school years, it impacted me a lot as a communicator. The views and comments I got and the testimonials I received even magnified the exigence in this situation.  These rhetorical texts pushed me even more to identify myself.
-
-           *I had to belong.*
-           *I had to look chic.*
-           *I had to be cool enough so others would see me as someone who deserved to be in that school.*
-
-
+Unfortunately, I was not aware that the views and comments I got and the testimonials I received even magnified the exigence in this situation.  These rhetorical texts pushed me even more to identify myself-- someone different from who I truly was.
+          
 # The Rhetor and the Audience
 
 I like Burke’s emphasis on identification as *semi-conscious and is achieved through self- persuasion*. 
