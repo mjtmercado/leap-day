@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Rhetorical Situation
+title: A Rhetorical Situation
 author: Marynel Mercado
 ---
 ## The Exigence
