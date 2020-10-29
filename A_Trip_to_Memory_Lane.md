@@ -13,7 +13,7 @@ This does not stand for laugh-out-loud antics. LOL pertains to *Landi OnLine*. I
 
 with no idea about the real world, would think about how to start making *landi* with others. Don’t get me wrong. All my friends in Friendster are mostly from my school, so I guess it was safe enough to upload pictures and information about me. Besides, issues about privacy were not that prevalent before.
 
-## How to LOL
+**How to Lol**
 ### *Style*
 
 **Choose your weapons wisely.**
