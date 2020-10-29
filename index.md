@@ -14,6 +14,6 @@ I thought it is impossible to have many versions of yourself.
 Not until now.
 
 ### My posts
-[A Trip to Memory Lane](./A_Trip_to_Memory_Lane.md)\
+[A Trip to Memory Lane]
 [A Rhetorical Situation](./A_Rhetorical_Situation.md)\
 [A Monologue with My Selves](./A_Monologue_with_My_Selves.md)
