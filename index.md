@@ -14,6 +14,6 @@ I thought it is impossible to have many versions of yourself.
 Not until now.
 
 ### My posts
-[The Beginning](./The_Beginning.md)\
-[The Rhetorical Situation in Friendster](./The_Rhetorical_Situation_in_Friendster.md)\
-[The Future of My Selves](./The_Future_of_My_Selves.md)
+[A Trip to Memory Lane](./A_Trip_to_Memory_Lane.md)\
+[A Rhetorical Situation](./A_Rhetorical_Situation.md)\
+[A Monologue with My Selves](./A_Monologue_with_My_Selves.md)
