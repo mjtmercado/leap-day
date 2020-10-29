@@ -8,7 +8,7 @@ author: Marynel Mercado
 I came from a low-income family, and I studied in a public school in grade school. My mother decided to enroll me in one of the most famous private schools in our city because that is where she works. The payment was just deducted from her monthly salary. Since I am not a rich kid, I had to identify myself as one. My classmates’ cellphones were the most recently released models. Their bags were branded. Their notebooks were expensive. Their parents were either doctors, engineers, or businessmen.
 
 *I have to be like them.*
-*I have to look cool."
+*I have to look cool.*
 *I have to belong.*
 This was the exigence.
 
