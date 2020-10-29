@@ -40,7 +40,7 @@ All these were based on **how I want others to see me.** The questions in my min
 Aside from the design layout and the things I upload about myself, I was also concerned with how others see me in terms of  “**testimonials**.”
 Testi or testimonials also mattered before. People can write comments about you, and during that time, I would usually ask my sister or my cousins, and close friends to write testi for me. However, there was a strict reminder: “*Ayusin niyo ha*.” I would ask them to write good stuff about me so that if anyone visited my page, they would see that I am an interesting person.
 
-As you can see, these are all about the appearance I want to communicate with others. I was so obsessed with how my “*friends*” would see me as a freshman student.
+As you can see, these are all about the appearance I want to communicate with others. I was so obsessed with how my “*friends*” would see me as a freshman student. I needed to "belong" in this new school, and I wanted to be noticed by my schoolmates.
 
 ## *Arrangement*
 ### 3. Use your secret weapon.
