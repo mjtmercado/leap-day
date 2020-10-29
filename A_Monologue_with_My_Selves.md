@@ -10,7 +10,8 @@ Well, let’s give credit to this platform for allowing me to learn how to engag
 ### *Delivery*
 As a communicator, it is essential that you engage in intrapersonal communication. Asking yourself questions about your identity matters because how you see yourself affects the way you present yourself. At a very young age, I did not know this. 
 
-*I just focused on how to deliver, where to deliver, and when to deiver my message to persuade others and myself.*
+**I just focused on how to deliver, where to deliver, and when to deiver my message to persuade others and myself.**
+
 I did not recognize the conflict it created within me.
 Instead of inside to outside communication, it was the other way around.
 
@@ -22,4 +23,4 @@ What if I represented myself different from who I really was?
 You see, as a teenager, it really mattered. Until now, even though I can already decide for myself, and I do not depend on my sister anymore to set up my account, social media platforms are still significant contributors to how I perceive and present myself. This false representation did not end in Friendster. It happens on my Instagram and Facebook accounts.
 
 ### *Memory*
-I was able to retrieve my photos from Friednster, and I like to show you a promise of myself to my selves.
+I was able to retrieve my photos from Friednster, and I like to show you **a promise of myself to my selves.**
