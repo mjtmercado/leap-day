@@ -7,7 +7,7 @@ author: Marynel Mercado
 ### *Invention*
 After a year of being in Friendster, I started to learn how to manipulate this technology. I can still vividly remember my first year in high school. Friendster played a vital role in my life at that time, not because it allowed me to learn stuff for school, but because it was one of the most famous means to learn things I would like to call *LOL*.
 
-This does not stand for laugh-out-loud antics. LOL pertains to *Landi OnLine*. I know, thinking about it now, I believe that this acronym suits the context so well because, as a 24-year old, I now realize how hilarious these years are. Imagine, a flat-chested kid,
+This does not stand for laugh-out-loud antics. LOL pertains to *Landi OnLine*. I know, thinking about it now, I believe that this acronym suits the context so well because, as a 24-year-old lady, I now realize how hilarious these years are. Imagine, a flat-chested kid,
 
 ![](attachments/228477_217078568319046_374596_n.jpg)
 
@@ -40,15 +40,15 @@ All these were based on **how I want others to see me.** The questions in my min
 Aside from the design layout and the things I upload about myself, I was also concerned with how others see me in terms of  “**testimonials**.”
 Testi or testimonials also mattered before. People can write comments about you, and during that time, I would usually ask my sister or my cousins, and close friends to write testi for me. However, there was a strict reminder: “*Ayusin niyo ha*.” I would ask them to write good stuff about me so that if anyone visited my page, they would see that I am an interesting person.
 
-As you can see, these are all about the appearance I want to communicate with others. I was so obsessed with how my “*friends*” would see me as a freshman student. I needed to "belong" in this new school, and I wanted to be noticed by my schoolmates.
+As you can see, these are all about the appearance I want to show to my schoolmates. I was so obsessed with how my “*friends*” would see me as a freshman student. I needed to "belong" in this new school, and I wanted to be noticed by them.
 
 ### *Arrangement*
 **Use your secret weapon.**
 
 
-In Friendster, there was an option in which you can see those people who viewed your profile. *Interesting, right? I wish Facebook has that.*
+In Friendster, there was an option in which you could see those people who viewed your profile. *Interesting, right? I wish Facebook has that.*
 
-However, since I was now introduced to LOL, I became so addicted to checking if this person checked my profile.
+However, since I was now introduced to LOL, I became so addicted to checking if this person visited my profile.
 - He did not view my page today.
 - Does it mean he does not like me?
 - Is he attracted to somebody else?
