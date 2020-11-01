@@ -37,7 +37,7 @@ I had to act upon myself rhetorically to fully persuade myself that I belong to 
 
 ## The Constraints--Wait. What Constraints?
 
-During that time, I was not able to recognize the constraints. I was just starting to learn about my identity because, at that stage, role confusion was the major problem. I had to associate myself with other people and identify myself as someone else, someone less of who I was, and more of who and what my schoolmates were like. Despite the difficulty of maintaining that posture and image, I had rationalized my choice to portray myself as someone different to address the exigence in that rhetorical situation. 
+During that time, I was not able to recognize the constraints. I was just starting to learn about my identity because, at that stage, role confusion was the major problem. I had to associate myself with other people and identify myself as someone else, someone less of who I was, and more of who and what my schoolmates were like. Despite the difficulty of maintaining that posture and image, I had rationalized my choice to portray myself as someone different to address the exigence. 
 
 This is where I can relate identification as **ingeneous and cunning** (Burke, 1969). I was focused in mainting my interest, and using persuasive identification of rhetoric for my motive. Because of this, I was not able to **recognize and criticize** the falsity in the over-playing of this role. I was so persuaded that this was the right thing to do, so amidst the conflict it created with the other versions of my selves, I assumed complete honesty in that role.
 
