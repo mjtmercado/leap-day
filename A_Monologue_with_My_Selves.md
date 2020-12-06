@@ -24,4 +24,4 @@ You see, as a teenager, it really mattered. Until now, even though I can already
 ### *Memory*
 I was able to retrieve my photos from Friendster, and I like to show you **a promise of myself to my selves.**
 
-{% include googleDrivePlayer.html id=1IsslzJmoMicmNl7rwDoMOzXhD9ADtEwJ %}
+{% include gdrivePlayer.html id=1IsslzJmoMicmNl7rwDoMOzXhD9ADtEwJ %}
