@@ -7,7 +7,7 @@ author: Marynel Mercado
 ## What is Friendster’s impact on me as a communicator?
 Well, let’s give credit to this platform for allowing me to learn how to engage in conversations with others. However, I think that, because of my very young age, the impact was detrimental.
 
-As a communicator, it is essential that you engage in intrapersonal communication. Asking yourself questions about your identity matters because how you see yourself affects the way you present yourself. At a very young age, I did not know this. 
+As a communicator, it is essential that you engage in intrapersonal communication. Asking yourself questions about your identity matters because how you see yourself affects the way you present yourself. At a very young age, I did not know this.
 
 **I just focused on how to deliver, where to deliver, and when to deliver my message to persuade others and myself.**
 
@@ -23,3 +23,5 @@ You see, as a teenager, it really mattered. Until now, even though I can already
 
 ### *Memory*
 I was able to retrieve my photos from Friendster, and I like to show you **a promise of myself to my selves.**
+
+{% include googleDrivePlayer.html id=1IsslzJmoMicmNl7rwDoMOzXhD9ADtEwJ %}
