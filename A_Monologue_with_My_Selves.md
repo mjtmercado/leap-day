@@ -22,6 +22,6 @@ What if I represented myself different from who I really was?
 You see, as a teenager, it really mattered. Until now, even though I can already decide for myself, and I do not depend on my sister anymore to set up my account, social media platforms are still significant contributors to how I perceive and present myself. This false representation did not end in Friendster. It happens on my Instagram and Facebook accounts.
 
 ### *Memory*
-I was able to retrieve my photos from Friendster, and I like to show you **a promise of myself to my selves.**
+I was able to retrieve my photos from Friendster, and I like to show you [**a promise of myself to my selves.**](https://drive.google.com/file/d/1IsslzJmoMicmNl7rwDoMOzXhD9ADtEwJ/preview)
 
 {% include gdrivePlayer.html id="1IsslzJmoMicmNl7rwDoMOzXhD9ADtEwJ/preview" %}
