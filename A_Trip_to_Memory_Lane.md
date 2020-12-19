@@ -38,7 +38,7 @@ All these were based on **how I want others to see me.** The questions in my min
 **Call for backup.**
 
 Aside from the design layout and the things I upload about myself, I was also concerned with how others see me in terms of  “**testimonials**.”
-Testi or testimonials also mattered before. People can write comments about you, and during that time, I would usually ask my sister or my cousins, and close friends to write testi for me. However, there was a strict reminder: “*Ayusin niyo ha*.” I would ask them to write good stuff about me so that if anyone visited my page, they would see that I am an interesting person.
+Testi or testimonials also mattered before. People can write comments about you, and during that time, I would usually ask my sister, my cousins, and close friends to write testi for me. However, there was a strict reminder: “*Ayusin niyo ha*.” I would ask them to write good stuff about me so that if anyone visited my page, they would see that I am an interesting person.
 
 As you can see, these are all about the appearance I want to show to my schoolmates. I was so obsessed with how my “*friends*” would see me as a freshman student. I needed to "belong" in this new school, and I wanted to be noticed by them.
 
@@ -57,7 +57,7 @@ Whenever this would happen, I would immediately change my background music into 
 
 {% include youtubePlayer.html id="7_weSk0BonM" %}
 
-My intention was if this guy visited my page, he would notice that I was so sad that for the past few days that he did not check me out.
+My intention was if this guy visited my page, he would notice that I was so sad for the past few days that he did not check me out.
 
 Of course, I also had a song if I saw that this person visited my profile.
 
