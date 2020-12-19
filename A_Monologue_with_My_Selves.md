@@ -14,7 +14,7 @@ As a communicator, it is essential that you engage in intrapersonal communicatio
 I did not recognize the conflict it created within me.
 Instead of inside to outside communication, it was the other way around.
 
-The way others saw me and communicated with me influenced the way I talked to myself. This is why I think that, despite the communication opportunities given by this platform, I still believe that the way I was introduced to it and how I manipulated it led to a false representation of myself.
+The way others saw me and communicated with me influenced the way I talked to myself. This is why, despite the communication opportunities given by this platform, I still believe that the way I was introduced to it and how I manipulated it led to a false representation of myself.
 
 **What now?**
 
